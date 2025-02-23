@@ -6,7 +6,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Treina Dev",
-  description: "Agende sua aula",
+  description: "Agende sua aula ",
 };
 
 // export default function RootLayout( {Component, pageProps} : AppProps, { children }: Readonly<{

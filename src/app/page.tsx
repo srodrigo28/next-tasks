@@ -17,11 +17,11 @@ export default function Dashboard() {
         <header className="flex gap-4 justify-between w-screen px-10 md:w-[700px]">
           
           <div className="flex relative cursor-pointer animate-pulse ">
-            <h1 className="text-5xl"> Tarefas </h1>
+            <h1 className="md:text-3xl text-lg"> Tarefas </h1>
             <div className=" text-white cursor-pointer font-extrabold text-5xl absolute bottom-5 -right-7"> + </div>
           </div>
           
-          <button className="cursor-pointer p-2 border px-7 rounded-md text-xl hover:bg-blue-700 duration-200 hover:border-none">Acessar</button>
+          <button className="cursor-pointer p-2 border px-7 rounded-md md:text-2xl text-lg hover:bg-blue-700 duration-200 hover:border-none">Acessar</button>
         
         </header>
       </motion.div>
@@ -42,8 +42,8 @@ export default function Dashboard() {
         transition={{ duration: 1.9 }}
       >
         <div className="flex md:flex-row flex-col gap-4 justify-center md:w-full w-screen px-10 ">
-          <button className="w-full md:w-80 bg-blue-600 rounded-md text-white p-3 font-semibold text-2xl">+ Marcar </button>
-          <button className="w-full md:w-80 bg-blue-600 rounded-md text-white p-3 font-semibold text-2xl">- Agenda </button>
+          <button className="w-full md:w-80 bg-blue-600 rounded-md text-white p-3 font-semibold md:text-2xl text-lg">+ Marcar </button>
+          <button className="w-full md:w-80 bg-blue-600 rounded-md text-white p-3 font-semibold md:text-2xl text-lg">- Agenda </button>
         </div>
       </motion.div>
     </div>
