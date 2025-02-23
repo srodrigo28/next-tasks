@@ -3,7 +3,7 @@
 import { motion } from "motion/react";
 import Image from "next/image";
 
-const imageUrl2 = "https://images.ctfassets.net/qjqyt7jorbng/3aoYWgkwJW45DHjdvfr5Fy/e2deb1c6d8040eca2cca58b86b311d07/cartao_multiplo2.png"
+// const imageUrl2 = "https://images.ctfassets.net/qjqyt7jorbng/3aoYWgkwJW45DHjdvfr5Fy/e2deb1c6d8040eca2cca58b86b311d07/cartao_multiplo2.png"
 const imageUrl = "https://static.vecteezy.com/system/resources/previews/009/315/274/non_2x/white-clipboard-task-management-todo-check-list-efficient-work-on-project-plan-fast-progress-level-up-concept-assignment-and-exam-productivity-solution-icon-3d-clipboard-render-free-png.png"
 export default function Dashboard() {
   return (
