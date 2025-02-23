@@ -7,6 +7,11 @@
 <img src="./screens/page4-mobile-2.png" alt="page3" width="49%" />
 <img src="./screens/page4-mobile-1.png" alt="page3" width="49%" />
 
+#### Animações
+```
+npm install motion
+```
+
 #### Google Auth
 
 ```
