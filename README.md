@@ -1,13 +1,12 @@
 #### Interfaces
 
-<img src="./screens/page1.png" alt="page1">
-<img src="./screens/page2.png" alt="page2">
-<img src="./screens/page3.png" alt="page3">
+<img src="./screens/page1.png" alt="page1" />
+<img src="./screens/page2.png" alt="page2" />
+<img src="./screens/page3.png" alt="page3" />
 
-<div style={{ display: "flex"; gap: "10px" }}>
-    <img src="./screens/page4-mobile-2.png" alt="page3">
-    <img src="./screens/page4-mobile-1.png" alt="page3">
-</div>
+<img src="./screens/page4-mobile-2.png" alt="page3" width="49%" />
+<img src="./screens/page4-mobile-1.png" alt="page3" width="49%" />
+
 #### Google Auth
 
 ```
