@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.input-text{
+ @apply p-2 rounded-md border-none text-black font-semibold tracking-widest w-auto   
+}
